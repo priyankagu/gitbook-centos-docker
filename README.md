@@ -8,7 +8,7 @@ GitBook content.
 This container has been run and tested in OpenShift by simply running: 
 
 ```
-oc new-app https://github.com/ArctiqTeam/gitbook-centos-docker
+oc new-app https://github.com/priyankagu/gitbook-centos-docker
 ```
 ```
 oc expose svc gitbook-centos-docker
